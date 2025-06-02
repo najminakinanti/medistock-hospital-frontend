@@ -42,7 +42,7 @@ http://localhost/medistock-hospital-frontend
 ```
 
 
-### 🔑 Features 
+## 🔑 Features 
 
 ### 1. Hospital Login
 Hospital users can log in to access the system.
